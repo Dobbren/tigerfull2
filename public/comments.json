@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "timestamp": 2,
+    "name": "Luísa Capitango",
+    "avatar": "/assets/commenters/f1.jpg",
+    "text": "Boa noite gente! Cheguei agora na transmissão em direto da Virgínia 🙌🇦🇴",
+    "likes": 14
+  },
+  {
+    "id": 2,
+    "timestamp": 12,
+    "name": "Carlos Mateus",
+    "avatar": "/assets/commenters/h3.jpg",
+    "text": "Já fiz a minha verificação agora mesmo como a Virgínia explicou no vídeo, estou a aguardar a transferência!",
+    "likes": 31,
+    "thread": [
+      {
+        "delaySec": 7,
+        "isModerator": true,
+        "name": "Assistente Fortune Tiger Angola",
+        "text": "@Carlos Mateus Verificação confirmada no sistema! A tua transferência IBAN de 119.300,00 Kz acabou de ser realizada com sucesso. Aqui está o teu comprovativo oficial, o dinheiro já está na tua conta! ✅👇",
+        "image": "/assets/comprovativos/comp-1.jpg",
+        "likes": 24
+      },
+      {
+        "delaySec": 7,
+        "name": "Carlos Mateus",
+        "avatar": "/assets/commenters/h3.jpg",
+        "text": "Gente!! Já recebi o comprovativo e o dinheiro já está na minha conta! 119.300,00 Kz certinhos no meu banco, funciona mesmo!! 🙌🔥",
+        "likes": 38
+      },
+      {
+        "delaySec": 8,
+        "name": "Domingos Neto",
+        "avatar": "/images/avatars/domingos-neto.jpg",
+        "text": "@Carlos Mateus Irmão, demorou muito tempo depois que concluíste a verificação para o dinheiro cair?",
+        "likes": 12
+      },
+      {
+        "delaySec": 7,
+        "name": "Carlos Mateus",
+        "avatar": "/assets/commenters/h3.jpg",
+        "text": "@Domingos Neto Nada mano, foi menos de 2 minutos! Assim que terminei a verificação o Assistente mandou o comprovativo e o banco notificou logo.",
+        "likes": 29
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "timestamp": 28,
+    "name": "Ana Paula",
+    "avatar": "/assets/commenters/f2.jpg",
+    "text": "A assistir em direto desde Luanda! Vou terminar de ver o passo a passo para fazer a minha verificação também 🔥",
+    "likes": 19
+  },
+  {
+    "id": 4,
+    "timestamp": 44,
+    "name": "Júlio Tavares",
+    "avatar": "/assets/commenters/h4.jpg",
+    "text": "Acabei de concluir! Já fiz a minha verificação com o meu IBAN, podem confirmar por favor?",
+    "likes": 27,
+    "thread": [
+      {
+        "delaySec": 7,
+        "isModerator": true,
+        "name": "Assistente Fortune Tiger Angola",
+        "text": "@Júlio Tavares Tudo validado, Júlio! A transferência de 107.820,00 Kz já foi processada para o teu IBAN sem qualquer custo. Segue abaixo o comprovativo da operação, o valor já está na conta! 🇦🇴✅",
+        "image": "/assets/comprovativos/comp-2.jpg",
+        "likes": 21
+      },
+      {
+        "delaySec": 7,
+        "name": "Júlio Tavares",
+        "avatar": "/assets/commenters/h4.jpg",
+        "text": "Confirmado!! Vi o comprovativo aqui e já caiu os 107.820,00 Kz na minha conta bancária! Muito obrigado equipa 👏💰",
+        "likes": 33
+      },
+      {
+        "delaySec": 8,
+        "name": "Teresa Chimuco",
+        "avatar": "/images/avatars/teresa-chimuco.jpg",
+        "text": "@Júlio Tavares O teu IBAN é do BAI ou do BFA? Caiu o valor todo sem descontar nada?",
+        "likes": 15
+      },
+      {
+        "delaySec": 7,
+        "name": "Júlio Tavares",
+        "avatar": "/assets/commenters/h4.jpg",
+        "text": "@Teresa Chimuco O meu é do BFA! Caiu os 107.820,00 Kz completos, custo totalmente isento como mostra aí na foto do comprovativo.",
+        "likes": 26
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "timestamp": 62,
+    "name": "Beatriz Sousa",
+    "avatar": "/assets/commenters/f4.jpg",
+    "text": "Onde é que aparece o botão para concluir a verificação do saldo? Ainda estou a acompanhar o vídeo.",
+    "likes": 28,
+    "thread": [
+      {
+        "delaySec": 7,
+        "isModerator": true,
+        "name": "Assistente Fortune Tiger Angola",
+        "text": "@Beatriz Sousa O botão oficial aparece automaticamente aqui no vídeo assim que a explicação do passo a passo terminar. Continua a assistir sem fechar a página! 👇",
+        "likes": 19
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "timestamp": 80,
+    "name": "Helena Sebastião",
+    "avatar": "/assets/commenters/f3.jpg",
+    "text": "Já fiz a minha verificação completa agora mesmo! Podem enviar o meu comprovativo?",
+    "likes": 35,
+    "thread": [
+      {
+        "delaySec": 7,
+        "isModerator": true,
+        "name": "Assistente Fortune Tiger Angola",
+        "text": "@Helena Sebastião Foi imediato, Helena! A tua verificação libertou o pagamento automático de 103.078,64 Kz via transferência IBAN. Confere o teu comprovativo abaixo, o dinheiro já entrou na conta! ✅👇",
+        "image": "/assets/comprovativos/comp-3.jpg",
+        "likes": 27
+      },
+      {
+        "delaySec": 7,
+        "name": "Helena Sebastião",
+        "avatar": "/assets/commenters/f3.jpg",
+        "text": "Meu Deus é verdade!! Já recebi o comprovativo e o dinheiro já está na conta, 103.078,64 Kz disponíveis no meu Multicaixa Express! 😭❤️",
+        "likes": 42
+      },
+      {
+        "delaySec": 8,
+        "name": "Marisa Lukamba",
+        "avatar": "/images/avatars/marisa-lukamba.jpg",
+        "text": "@Helena Sebastião Mana, eu estava com medo porque já tentei outras coisas na internet que não pagavam… esse caiu mesmo de verdade?",
+        "likes": 18
+      },
+      {
+        "delaySec": 7,
+        "name": "Helena Sebastião",
+        "avatar": "/assets/commenters/f3.jpg",
+        "text": "@Marisa Lukamba Eu também tinha receio mana! Mas fiz a verificação certinha e o saldo já está aqui no meu Express, podes fazer sem medo.",
+        "likes": 34
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "timestamp": 102,
+    "name": "Luísa Capitango",
+    "avatar": "/assets/commenters/f1.jpg",
+    "text": "Meninas e rapazes, já fiz a minha verificação passo a passo! A aguardar a minha transferência 🙏",
+    "likes": 41,
+    "thread": [
+      {
+        "delaySec": 7,
+        "isModerator": true,
+        "name": "Assistente Fortune Tiger Angola",
+        "text": "@Luísa Capitango Parabéns Luísa! A tua verificação foi aprovada e a transferência IBAN de 140.000,00 Kz já foi concluída com sucesso. Aqui está o comprovativo, o dinheiro já está na tua conta! 🎉✅",
+        "image": "/assets/comprovativos/comp-4.jpg",
+        "likes": 31
+      },
+      {
+        "delaySec": 7,
+        "name": "Luísa Capitango",
+        "avatar": "/assets/commenters/f1.jpg",
+        "text": "Acabei de abrir o Express!! O comprovativo bateu certo e os 140.000,00 Kz já estão na minha conta! Deus abençoe Virgínia 🎉🇦🇴",
+        "likes": 49
+      },
+      {
+        "delaySec": 8,
+        "name": "António Bastos",
+        "avatar": "/images/avatars/antonio-bastos.jpg",
+        "text": "@Luísa Capitango Depois que fizeste a verificação pediram mais alguma taxa ou liberou logo os 140.000 Kz?",
+        "likes": 16
+      },
+      {
+        "delaySec": 7,
+        "name": "Luísa Capitango",
+        "avatar": "/assets/commenters/f1.jpg",
+        "text": "@António Bastos Não pedem mais nada! É só concluir a verificação única explicada no vídeo e o valor cai direto na conta.",
+        "likes": 37
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "timestamp": 126,
+    "name": "Manuel Fernando",
+    "avatar": "/assets/commenters/h1.jpg",
+    "text": "Já fiz a minha verificação agora mesmo pelo vídeo, já está tudo confirmado do meu lado!",
+    "likes": 39,
+    "thread": [
+      {
+        "delaySec": 7,
+        "isModerator": true,
+        "name": "Assistente Fortune Tiger Angola",
+        "text": "@Manuel Fernando Verificação concluída com sucesso, Manuel! Acabámos de emitir a tua transferência IBAN no valor de 148.000,00 Kz. Segue o teu comprovativo oficial abaixo, o dinheiro já está na conta! 💸✅",
+        "image": "/assets/comprovativos/comp-5.jpg",
+        "likes": 28
+      },
+      {
+        "delaySec": 7,
+        "name": "Manuel Fernando",
+        "avatar": "/assets/commenters/h1.jpg",
+        "text": "Estou sem palavras! Já recebi o comprovativo e o dinheiro já está na conta, 148.000,00 Kz recebidos na hora! 🤯👏",
+        "likes": 45
+      },
+      {
+        "delaySec": 8,
+        "name": "Silvano Dala",
+        "avatar": "/images/avatars/silvano-dala.jpg",
+        "text": "@Manuel Fernando Estás em Luanda ou noutra província? Aqui no Huambo será que cai rápido também?",
+        "likes": 14
+      },
+      {
+        "delaySec": 7,
+        "name": "Manuel Fernando",
+        "avatar": "/assets/commenters/h1.jpg",
+        "text": "@Silvano Dala Estou em Benguela irmão! Como é transferência bancária por IBAN e Multicaixa Express, cai na mesma hora em qualquer província.",
+        "likes": 30
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "timestamp": 152,
+    "name": "Paulo Kassoma",
+    "avatar": "/images/avatars/paulo-kassoma.jpg",
+    "text": "Já fiz a minha verificação e ativei o levantamento do meu saldo, podem verificar?",
+    "likes": 46,
+    "thread": [
+      {
+        "delaySec": 7,
+        "isModerator": true,
+        "name": "Assistente Fortune Tiger Angola",
+        "text": "@Paulo Kassoma Verificado no sistema, Paulo! A tua transferência IBAN de 200.000,00 Kz foi realizada com sucesso e isenta de custos. Aqui tens o comprovativo, o dinheiro já está na tua conta! 🔥✅",
+        "image": "/assets/comprovativos/comp-6.jpg",
+        "likes": 35
+      },
+      {
+        "delaySec": 7,
+        "name": "Paulo Kassoma",
+        "avatar": "/images/avatars/paulo-kassoma.jpg",
+        "text": "Bateu na conta agora mesmo!! 200.000,00 Kz confirmados com o comprovativo, pessoal façam a verificação que cai na hora!! 🚀🇦🇴",
+        "likes": 53
+      },
+      {
+        "delaySec": 8,
+        "name": "Nuno Quiala",
+        "avatar": "/images/avatars/nuno-quiala.jpg",
+        "text": "@Paulo Kassoma Os 200.000 Kz entraram de uma só vez ou dividiram em partes?",
+        "likes": 17
+      },
+      {
+        "delaySec": 7,
+        "name": "Paulo Kassoma",
+        "avatar": "/images/avatars/paulo-kassoma.jpg",
+        "text": "@Nuno Quiala Entrou tudo de uma só vez irmão! Abre a foto do comprovativo aí em cima para veres, 200.000,00 Kz limpos.",
+        "likes": 39
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "timestamp": 178,
+    "name": "Cláudia Muhongo",
+    "avatar": "/images/avatars/claudia-muhongo.jpg",
+    "text": "Já fiz a minha verificação certinha sem pular nada! A aguardar a confirmação da equipa 🙏",
+    "likes": 52,
+    "thread": [
+      {
+        "delaySec": 7,
+        "isModerator": true,
+        "name": "Assistente Fortune Tiger Angola",
+        "text": "@Cláudia Muhongo Tudo certo com a tua verificação, Cláudia! A transferência IBAN de 183.200,00 Kz já foi efetuada para a tua conta. Confere abaixo o comprovativo bancário, o saldo já está disponível! ✅👇",
+        "image": "/assets/comprovativos/comp-7.jpg",
+        "likes": 36
+      },
+      {
+        "delaySec": 7,
+        "name": "Cláudia Muhongo",
+        "avatar": "/images/avatars/claudia-muhongo.jpg",
+        "text": "Já recebi o comprovativo e o dinheiro já está na minha conta!! 183.200,00 Kz certinhos, muito obrigada mesmo! 😍🙏",
+        "likes": 48
+      },
+      {
+        "delaySec": 8,
+        "name": "Yola Cambinda",
+        "avatar": "/images/avatars/yola-cambinda.jpg",
+        "text": "@Cláudia Muhongo Amiga, fizeste tudo pelo telemóvel mesmo? É fácil fazer a verificação?",
+        "likes": 19
+      },
+      {
+        "delaySec": 7,
+        "name": "Cláudia Muhongo",
+        "avatar": "/images/avatars/claudia-muhongo.jpg",
+        "text": "@Yola Cambinda Sim amiga, fiz tudo pelo telemóvel em 1 minutinho! Assim que clicares no botão do vídeo é super rápido.",
+        "likes": 41
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "timestamp": 205,
+    "name": "Benedito António Pedro",
+    "avatar": "/images/avatars/benedito-antonio-pedro.jpg",
+    "text": "Já fiz a minha verificação agora mesmo com o meu IBAN, tudo preenchido e confirmado!",
+    "likes": 63,
+    "thread": [
+      {
+        "delaySec": 7,
+        "isModerator": true,
+        "name": "Assistente Fortune Tiger Angola",
+        "text": "@Benedito António Pedro Excelente, Benedito! Verificação validada e transferência IBAN de 281.250,00 Kz realizada com sucesso em teu nome. Aqui está o teu comprovativo, o valor já se encontra disponível na tua conta! 🏆✅",
+        "image": "/assets/comprovativos/comp-8.jpg",
+        "likes": 44
+      },
+      {
+        "delaySec": 7,
+        "name": "Benedito António Pedro",
+        "avatar": "/images/avatars/benedito-antonio-pedro.jpg",
+        "text": "Comprovativo recebido com o meu nome completo certinho e os 281.250,00 Kz já estão na minha conta!! Quem ainda não fez a verificação, faça agora mesmo! 🔥🙌",
+        "likes": 67
+      },
+      {
+        "delaySec": 8,
+        "name": "Edson Miguel",
+        "avatar": "/assets/commenters/h2.jpg",
+        "text": "@Benedito António Pedro Grande Benedito! Vi que até o teu nome completo apareceu aí no comprovativo oficial do banco, transparência total!",
+        "likes": 28
+      },
+      {
+        "delaySec": 7,
+        "name": "Benedito António Pedro",
+        "avatar": "/images/avatars/benedito-antonio-pedro.jpg",
+        "text": "@Edson Miguel Verdade irmão, transferência direta para o meu IBAN em meu nome, caiu na hora sem complicação!",
+        "likes": 52
+      }
+    ]
+  }
+]
