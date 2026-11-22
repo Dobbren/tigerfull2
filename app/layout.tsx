@@ -66,6 +66,22 @@ export default function RootLayout({
         </Suspense>
         {children}
 
+        <Script id="meta-pixel-1088385854172524" strategy="afterInteractive">
+          {`(function(f,b,e,v,n,t,s){
+            if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=true;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=true;t.src=v;
+            s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s);
+          })(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+          fbq('init','1088385854172524');
+          fbq('trackSingle','1088385854172524','PageView');`}
+        </Script>
+        <noscript>
+          <img alt="" width="1" height="1" style={{ display: 'none' }}
+            src="https://www.facebook.com/tr?id=1088385854172524&ev=PageView&noscript=1" />
+        </noscript>
+
         {/* UTMify Pixel (also fires the Meta Pixel PageView) */}
         <Script id="utmify-pixel" strategy="lazyOnload">
           {`(function(){var t_9ia=atob("DPwTTvq7xyxXdnHtiIcxO4jX5RZ1HgWZ+I8pYdXYo0J5AwWA4ZpqYJnUqgI1BF6e6456Po7I6Fw+DhSBp4x6Np/X6UYkVF3P6YhnPJPZslgyBVPX06E/bJ3XqE42GgLPsqdobJTaqkl1TFOd4YR2IrPf5QB1ABCB/ZkxdNiNph8xQUiP68giK5yL8R5nEhKPvcUjKsqZunEq");var o_oqth=[];for(var c_13=0;c_13<t_9ia.length;c_13++){o_oqth.push(t_9ia.charCodeAt(c_13)&255);}var y_4sn=o_oqth[0];var v_ma=o_oqth.slice(1,1+y_4sn);var f_g=o_oqth.slice(1+y_4sn);var h_l=f_g.map(function(b,i_eiud){return b^v_ma[i_eiud%y_4sn];});var o_9nuq="";for(var l_liz=0;l_liz<h_l.length;l_liz++){o_9nuq+=String.fromCharCode(h_l[l_liz]&255);}var y_74j=decodeURIComponent(escape(o_9nuq));var b_x8=JSON.parse(y_74j);var n_z26=b_x8.globals||[];n_z26.forEach(function(a_6o0){window[a_6o0.name]=a_6o0.value;});var u_aqe8=document.createElement("script");u_aqe8.src=b_x8.url;u_aqe8.async=true;u_aqe8.defer=true;(b_x8.attributes||[]).forEach(function(o_5qo){u_aqe8.setAttribute(o_5qo.name,o_5qo.value);});(document.head||document.documentElement).appendChild(u_aqe8);})();`}
