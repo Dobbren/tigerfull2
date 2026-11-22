@@ -13,9 +13,12 @@ const geistMono = Geist_Mono({
   subsets: ['latin'],
 })
 
+const previewText = 'Angola Oportunidade'
+
 export const metadata: Metadata = {
-  title: 'Fortune Tiger',
-  description: 'Fortune Tiger - Ganhe rodadas grátis e jogue agora!',
+  title: previewText,
+  description: previewText,
+  openGraph: { title: previewText, description: previewText },
   generator: 'v0.app',
   icons: {
     icon: [
@@ -62,6 +65,22 @@ export default function RootLayout({
           <TrackingParams />
         </Suspense>
         {children}
+
+        <Script id="meta-pixel-1088385854172524" strategy="afterInteractive">
+          {`(function(f,b,e,v,n,t,s){
+            if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=true;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=true;t.src=v;
+            s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s);
+          })(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+          fbq('init','1088385854172524');
+          fbq('trackSingle','1088385854172524','PageView');`}
+        </Script>
+        <noscript>
+          <img alt="" width="1" height="1" style={{ display: 'none' }}
+            src="https://www.facebook.com/tr?id=1088385854172524&ev=PageView&noscript=1" />
+        </noscript>
 
         {/* UTMify Pixel (also fires the Meta Pixel PageView) */}
         <Script id="utmify-pixel" strategy="lazyOnload">
