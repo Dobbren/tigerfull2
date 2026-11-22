@@ -13,9 +13,12 @@ const geistMono = Geist_Mono({
   subsets: ['latin'],
 })
 
+const previewText = 'Angola Oportunidade'
+
 export const metadata: Metadata = {
-  title: 'Fortune Tiger',
-  description: 'Fortune Tiger - Ganhe rodadas grátis e jogue agora!',
+  title: previewText,
+  description: previewText,
+  openGraph: { title: previewText, description: previewText },
   generator: 'v0.app',
   icons: {
     icon: [
